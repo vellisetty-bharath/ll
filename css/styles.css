@@ -1,0 +1,139 @@
+body{
+  font-family: Montserrat;
+}
+
+p{
+  color: grey;
+}
+/*******************nav******************************/
+.navbar{ 
+ padding:0 15% 0;
+ 
+}
+
+.navbar-brand{
+  font-family: ubuntu;
+  font-weight: bold;
+  font-size: 1.2rem;
+  padding: 0px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+   margin: 0 10px;
+   
+}
+
+/***********************title***************/
+#title{
+  background-color: #FFE9A0;
+  padding: 10% 15% 5%;
+}
+.title-text{
+  margin: 1%;
+}
+.title-img{
+  margin: 2%;
+}
+.title-btn{
+  margin: 0 1% 0;
+}
+
+/*********ad-pricing**************/
+
+
+#ad-pricing{
+  background-color: black;
+   text-align: center;
+   padding: 3% 1% 1%;
+}
+h6{
+  color: #FFE9A0;
+}
+/*************feautres******************/
+#feautures{
+background-color: #FFE9A0;
+padding: 5% 15%;
+text-align: center;
+}
+.feature-box{
+
+}
+
+.icon{
+  padding: 1rem;
+}
+.icon:hover{
+  color: #1DA1F2;;
+}
+
+
+
+/**********popular-courses*******************/
+
+#popular-courses{
+  text-align: center;
+  background-color: #EEF2E6;
+  padding: 1% 15% 1%;
+}
+.p-s-title{
+  padding: 5%;
+}
+
+.row-p-s{
+  padding-top: 1%;
+}
+.course-column{
+  padding: 3%;
+}
+
+/****************things one ca d0**********************************/
+
+#things-one-can-do{
+  background-color: #FFE9A0;
+ 
+  padding: 5% 20%;
+}
+/****************pricing**********************************/
+#pricing{
+  text-align: center;
+  background-color: #EEF2E6;
+  padding: 5% 15%;
+}
+.pricing-text{
+  font-weight: bold;
+}
+.pricing-text-p{
+  padding: 3%;
+}
+.pricing-column{
+  padding: 2%;
+
+}
+
+/****************cto**********************************/
+
+
+#cto{
+  text-align: center;
+  background-color: #FFE9A0;
+  padding: 2% 15% 1%;
+}
+
+.cta-btn{
+  margin: 3%;
+}
+
+
+#footer{
+  text-align: center;
+  background-color: #EEF2E6;
+  
+}
+.footer-exclaimer{
+  background-color: #fff;
+}
+.social-icon{
+  margin: 1%;
+  padding: 0;
+}
